@@ -1,1 +1,1 @@
-O Curso de lógica de programação possui foco no javascrpit
+O curso de lógica de programação possui foco no javascrpit
